@@ -1,0 +1,7 @@
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\bin\Debug\Homework01.exe.config
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\bin\Debug\Homework01.exe
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\bin\Debug\Homework01.pdb
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\obj\Debug\Homework01.csprojAssemblyReference.cache
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\obj\Debug\Homework01.csproj.CoreCompileInputs.cache
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\obj\Debug\Homework01.exe
+D:\Oleh\C#Advanse\Homework01\Homework01\Homework01\obj\Debug\Homework01.pdb
