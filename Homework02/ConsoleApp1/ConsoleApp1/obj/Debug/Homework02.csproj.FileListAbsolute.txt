@@ -1,0 +1,7 @@
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\obj\Debug\Homework02.csprojAssemblyReference.cache
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\obj\Debug\Homework02.csproj.CoreCompileInputs.cache
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Oleh\C#Advanse\Homework02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
