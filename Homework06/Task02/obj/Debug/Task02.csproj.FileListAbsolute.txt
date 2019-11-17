@@ -1,0 +1,5 @@
+C:\Games\Programming\C# Advanse\Homework06\Homework06\Task02\bin\Debug\Task02.exe.config
+C:\Games\Programming\C# Advanse\Homework06\Homework06\Task02\bin\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework06\Homework06\Task02\bin\Debug\Task02.pdb
+C:\Games\Programming\C# Advanse\Homework06\Homework06\Task02\obj\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework06\Homework06\Task02\obj\Debug\Task02.pdb
