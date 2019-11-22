@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Task02
 {
     public delegate void MyDelegate();
-    class StaticMethod
+    static class StaticMethod
     {
         
         public static void CallDelegate(MyDelegate myDelegate)
