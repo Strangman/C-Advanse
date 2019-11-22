@@ -1,0 +1,13 @@
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\Task3.exe.config
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\Task3.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\Task3.pdb
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\obj\Debug\Task3.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\obj\Debug\Task3.pdb
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFramework.dll
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFrameworkExample.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFramework.xml
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFrameworkExample.pdb
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\bin\Debug\EntityFrameworkExample.exe.config
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task3\obj\Debug\Task3.csproj.CopyComplete

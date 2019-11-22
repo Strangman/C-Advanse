@@ -1,0 +1,14 @@
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\Task5.exe.config
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\Task5.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\Task5.pdb
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFramework.dll
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFrameworkNavigationProperties.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFramework.xml
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFrameworkNavigationProperties.pdb
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\bin\Debug\EntityFrameworkNavigationProperties.exe.config
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\obj\Debug\Task5.csproj.CopyComplete
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\obj\Debug\Task5.exe
+C:\Games\Programming\C# Advanse\Homework08\Homework08\Task5\obj\Debug\Task5.pdb
