@@ -1,0 +1,6 @@
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\bin\Debug\Task2.exe.config
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\bin\Debug\Task2.exe
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\bin\Debug\Task2.pdb
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\obj\Debug\Task2.exe
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\obj\Debug\Task2.pdb
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task2\obj\Debug\Task2.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\bin\Debug\Task01.exe.config
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\bin\Debug\Task01.exe
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\bin\Debug\Task01.pdb
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\obj\Debug\Task01.exe
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\obj\Debug\Task01.pdb
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\bin\Debug\NLog.dll
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\bin\Debug\NLog.xml
+C:\Games\Programming\C# Advanse\Homework07\Homework07\Task01\obj\Debug\Task01.csproj.CopyComplete
