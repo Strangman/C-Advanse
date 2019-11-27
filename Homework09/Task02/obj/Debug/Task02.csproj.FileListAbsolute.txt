@@ -1,0 +1,13 @@
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\Task02.exe.config
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\Task02.pdb
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\System.IO.Packaging.dll
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.Form1.resources
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.Properties.Resources.resources
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.csproj.GenerateResource.cache
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.csproj.CopyComplete
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task02\obj\Debug\Task02.pdb
