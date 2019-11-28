@@ -2,7 +2,7 @@
 
 namespace Task01.Models
 {
-    [Table(Name = "Director")]
+    [Table(Name = "Directors")]
     class Director
     {
         [Column(IsPrimaryKey = true, IsDbGenerated = true)]

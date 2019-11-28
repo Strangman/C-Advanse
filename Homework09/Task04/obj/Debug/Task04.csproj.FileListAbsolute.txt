@@ -1,0 +1,11 @@
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\Task04.exe.config
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\Task04.exe
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\Task04.pdb
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\obj\Debug\Task04.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\obj\Debug\Task04.exe
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\obj\Debug\Task04.pdb
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\EntityFramework.dll
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\EntityFramework.xml
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Games\Programming\C# Advanse\Homework09\Homework09\Task04\obj\Debug\Task04.csproj.CopyComplete
