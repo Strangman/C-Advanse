@@ -1,0 +1,9 @@
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\bin\Debug\Task02.exe.config
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\bin\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\bin\Debug\Task02.pdb
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\obj\Debug\Task02.exe
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\obj\Debug\Task02.pdb
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\bin\Debug\Newtonsoft.Json.dll
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\bin\Debug\Newtonsoft.Json.xml
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\obj\Debug\Task02.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task02\obj\Debug\Task02.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\bin\Debug\Task03.exe.config
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\bin\Debug\Task03.exe
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\bin\Debug\Task03.pdb
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.Form1.resources
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.Properties.Resources.resources
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.csproj.GenerateResource.cache
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.exe
+C:\Games\Programming\C# Advanse\Homework10\Homework10\Task03\obj\Debug\Task03.pdb

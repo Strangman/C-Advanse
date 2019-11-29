@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01", "Task01\Task01.csproj", "{4E692638-071E-4A3B-B91B-EA236F6AD280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{D235F44A-D308-4C1A-9A09-F099F56D34C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03", "Task03\Task03.csproj", "{15D21EA0-4B9A-4BE8-9527-8DB309949CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E692638-071E-4A3B-B91B-EA236F6AD280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E692638-071E-4A3B-B91B-EA236F6AD280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E692638-071E-4A3B-B91B-EA236F6AD280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E692638-071E-4A3B-B91B-EA236F6AD280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D235F44A-D308-4C1A-9A09-F099F56D34C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D235F44A-D308-4C1A-9A09-F099F56D34C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D235F44A-D308-4C1A-9A09-F099F56D34C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D235F44A-D308-4C1A-9A09-F099F56D34C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D21EA0-4B9A-4BE8-9527-8DB309949CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D21EA0-4B9A-4BE8-9527-8DB309949CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D21EA0-4B9A-4BE8-9527-8DB309949CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D21EA0-4B9A-4BE8-9527-8DB309949CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D313D3CF-48F9-4ECB-93E7-E70D341C4CD6}
+	EndGlobalSection
+EndGlobal
