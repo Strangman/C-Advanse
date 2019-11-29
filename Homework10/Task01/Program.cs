@@ -6,7 +6,7 @@ namespace Task01
     {
         static void Main(string[] args)
         {
-            CreateTXT.CreateFile(@"C:\Games\Programming\C# Advanse\Homework10\Hi\I\try.txt")
+            CreateTXT.CreateFile(@"C:\Games\Programming\C# Advanse\Homework10\Hi\I\try.txt");
 
             Console.ReadKey();
         }

@@ -10,7 +10,6 @@ namespace Task01
         {
             if (count == 0) folder = file.Remove(file.IndexOf("\\")+1);
             string more = file.Replace(folder, "");
-            Console.WriteLine(folder);
             try
             {
                 new FileInfo(file).Create();
@@ -21,7 +20,11 @@ namespace Task01
             {
                 count++;
                 folder = folder.Insert(folder.Length, more.Remove(more.IndexOf("\\") + 1));
-                new DirectoryInfo(folder).Create();
+                if (!new DirectoryInfo(folder).Exists)
+                {
+                    new DirectoryInfo(folder).Create();
+                    Console.WriteLine(folder);
+                }
                 CreateFile(file);
             }
 
