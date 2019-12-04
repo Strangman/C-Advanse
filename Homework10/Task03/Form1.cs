@@ -20,19 +20,16 @@ namespace Task03
 
         private void button1_Click(object sender, EventArgs e)
         {
-            imagineFolder.Visible = true;
+            pictureBrowser.ShowDialog();
             try
             {
-                pictureBoxMain.Image = Image.FromFile(imagineFolder.Text);
+                pictureBoxMain.Image = Image.FromFile(pictureBrowser.FileName);
             }
-            catch (ArgumentException)
+            catch(Exception a)
             {
-                imagineFolder.Text = "Enter image folder";
+                MessageBox.Show(a.ToString());
             }
-            catch (Exception)
-            {
-                imagineFolder.Text = "Wrong image folder";
-            }
+
         }
     }
 }

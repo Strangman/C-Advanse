@@ -30,7 +30,7 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBoxMain = new System.Windows.Forms.PictureBox();
-            this.imagineFolder = new System.Windows.Forms.TextBox();
+            this.pictureBrowser = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxMain)).BeginInit();
             this.SuspendLayout();
             // 
@@ -53,13 +53,9 @@
             this.pictureBoxMain.TabIndex = 1;
             this.pictureBoxMain.TabStop = false;
             // 
-            // imagineFolder
+            // pictureBrowser
             // 
-            this.imagineFolder.Location = new System.Drawing.Point(263, 389);
-            this.imagineFolder.Name = "imagineFolder";
-            this.imagineFolder.Size = new System.Drawing.Size(267, 20);
-            this.imagineFolder.TabIndex = 2;
-            this.imagineFolder.Visible = false;
+            this.pictureBrowser.FileName = "pictureBrowser";
             // 
             // Form1
             // 
@@ -68,12 +64,10 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.pictureBoxMain);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.imagineFolder);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxMain)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -81,7 +75,7 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBoxMain;
-        private System.Windows.Forms.TextBox imagineFolder;
+        private System.Windows.Forms.OpenFileDialog pictureBrowser;
     }
 }
 
