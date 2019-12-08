@@ -1,0 +1,6 @@
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\bin\Debug\Task004.exe.config
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\bin\Debug\Task004.exe
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\bin\Debug\Task004.pdb
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\obj\Debug\Task004.exe
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\obj\Debug\Task004.pdb
+C:\Games\Programming\C# Advanse\Homework11\Homework11\Task004\obj\Debug\Task004.csprojAssemblyReference.cache
