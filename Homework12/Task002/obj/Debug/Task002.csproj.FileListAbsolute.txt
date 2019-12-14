@@ -11,3 +11,17 @@ C:\Games\Programming\C# Advanse\Homework12\Homework12\Task002\obj\Debug\Task002.
 C:\Games\Programming\C# Advanse\Homework12\Homework12\Task002\obj\Debug\Task002.csproj.CopyComplete
 C:\Games\Programming\C# Advanse\Homework12\Homework12\Task002\obj\Debug\Task002.exe
 C:\Games\Programming\C# Advanse\Homework12\Homework12\Task002\obj\Debug\Task002.pdb
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\Task002.exe.config
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\Task002.exe
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\Task002.pdb
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\EntityFramework.dll
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\EntityFramework.SqlServer.dll
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\EntityFramework.xml
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\bin\Debug\EntityFramework.SqlServer.xml
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.Form1.resources
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.Properties.Resources.resources
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.csproj.GenerateResource.cache
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.csproj.CopyComplete
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.exe
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.pdb
