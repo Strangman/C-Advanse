@@ -4,3 +4,9 @@ C:\Games\Programming\C# Advanse\Homework11\Homework11\Task003\bin\Debug\Task003.
 C:\Games\Programming\C# Advanse\Homework11\Homework11\Task003\obj\Debug\Task003.exe
 C:\Games\Programming\C# Advanse\Homework11\Homework11\Task003\obj\Debug\Task003.pdb
 C:\Games\Programming\C# Advanse\Homework11\Homework11\Task003\obj\Debug\Task003.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\bin\Debug\Task003.exe.config
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\bin\Debug\Task003.exe
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\bin\Debug\Task003.pdb
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\obj\Debug\Task003.csprojAssemblyReference.cache
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\obj\Debug\Task003.exe
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework11\Task003\obj\Debug\Task003.pdb

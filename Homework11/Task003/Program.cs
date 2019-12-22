@@ -8,9 +8,15 @@ namespace Task003
         static void Main(string[] args)
         {
             ParameterizedThreadStart threadStart = Fibonacci;
-            var someThread = new Thread(threadStart);
-            int a = int.Parse(Console.ReadLine());
-            someThread.Start(a);
+
+            var firstThread = new Thread(threadStart);
+            var secondThread = new Thread(threadStart);
+
+            firstThread.Start(2);
+            secondThread.Start(5);
+
+            for (int i = 0; i < 100; i++)
+                Console.WriteLine(i);
 
             Console.ReadKey();
         }

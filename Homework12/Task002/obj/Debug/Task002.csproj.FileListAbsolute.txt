@@ -25,3 +25,4 @@ C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\ob
 C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.csproj.CopyComplete
 C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.exe
 C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.pdb
+C:\Games\Programming\C# Advanse\Homework05Re-Try\C-Advanse\Homework12\Task002\obj\Debug\Task002.csproj.CoreCompileInputs.cache

@@ -10,14 +10,13 @@ namespace Task004
         {
             file = new FileInfo(@"C:\Games\Programming\C# Advanse\Homework11\Homework11\Example\Text.txt");
 
-            using (FileStream be = new FileStream(file.FullName, FileMode.OpenOrCreate));
-
-            Action<string> someDelegate = DoMe;
+            Action<string> someDelegate = WriteMethode;
 
             someDelegate("Bora");
+
             Console.ReadKey();
         }
-        static async void DoMe(string a)
+        static async void WriteMethode(string a)
         {
             using (StreamWriter write = file.CreateText())
             {
