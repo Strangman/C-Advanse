@@ -1,0 +1,17 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+<div class=" container-fluid">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <img src="~/img/NewsLogo.png" width="250" height="250" />
+                <h2>@ViewBag.CurrentNews.Title</h2>
+                <br />
+                <p>@ViewBag.CurrentNews.Text</p>
+                <p>Game:<a href="/Game/CurrentGame/@ViewBag.CurrentNewsGame.Id">@ViewBag.CurrentNewsGame.Name</a> </p>
+            </div>
+        </div>
+    </div>
+</div>

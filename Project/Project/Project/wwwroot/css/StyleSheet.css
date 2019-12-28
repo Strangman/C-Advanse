@@ -1,0 +1,19 @@
+﻿#Text h2{
+    font-size: 4.0em;
+}
+#Text p {
+    font-size: 1.6em;
+}
+#Text a {
+    color: silver;
+}
+#Text button {
+    color: #6884b0;
+    width: 150px;
+    height:50px;
+    font-size: 1.2em;
+}
+#Text h3{
+    font-size: 2.5em;
+    margin-left: 20px;
+}

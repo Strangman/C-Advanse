@@ -1,0 +1,17 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+
+<br />
+<div class="list-group" id="My">
+    <ul class="list-group-flush">
+        @foreach (var a in ViewBag.AllNews)
+        {
+            <li class="list-group-item" style="background-color: #6884b0; margin-right: 40%;">
+                <a style="color:black; font-size:1.2em; font-stretch:wider" href="CurrentNews/@a.Id"><img src="~/img/News.png" width="100" height="100" /> @a.Title</a>
+            </li>
+            <br />
+        }
+    </ul>
+</div>

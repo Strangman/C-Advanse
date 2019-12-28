@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+<br />
+<div class=" container-fluid">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <img src="~/img/@ViewBag.CurrentDLC.ImgLink" class="w-100" width="70" />
+            </div>
+            <div class="col">
+                <h2>@ViewBag.CurrentDLC.Name</h2>
+                <p>@ViewBag.CurrentDLC.Discription</p>
+                <p>Game: <a href="/Game/CurrentGame/@ViewBag.CurrentDLCGame.Id">@ViewBag.CurrentDLCGame.Name</a></p>
+                <p>Studio: <a href="/Studio/CurrentStudio/@ViewBag.CurrentDLCStudio.Id">@ViewBag.CurrentDLCStudio.Name</a></p>
+                <a href="@ViewBag.CurrentDLC.BuyLink"><button>Buy</button></a>
+            </div>
+        </div>
+    </div>
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
