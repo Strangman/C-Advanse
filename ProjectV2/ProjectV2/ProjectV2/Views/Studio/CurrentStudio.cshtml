@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+<br />
+<div class=" container-fluid">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <img src="~/img/@ViewBag.CurrentStudio.ImgLink" class="w-100" width="90"/>
+            </div>
+            <div class="col">
+                <h2>@ViewBag.CurrentStudio.Name</h2>
+                <p>@ViewBag.CurrentStudio.Discription</p>
+                <p>Founded: @ViewBag.CurrentStudio.Foundation</p>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<div class="list-group">
+    <h3>Games</h3>
+    @foreach (var a in @ViewBag.CurrentStudioGames)
+    {
+        <ul class="list-group-flush">
+            <p><a href="/Game/CurrentGame/@a.Id">@a.Name</a></p>
+        </ul>
+        <br>
+    }
+</div>

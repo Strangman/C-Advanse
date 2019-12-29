@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = "_Layout";
+}
+<br />
+<div class=" container-fluid" >
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <img src="~/img/@ViewBag.CurrentGame.ImgLink" class="w-100" width="40"/>
+            </div>
+            <div class="col">
+                <h2>@ViewBag.CurrentGame.Name</h2>
+                <p>@ViewBag.CurrentGame.Discription</p>
+                <p>Genre: @ViewBag.CurrentGame.Genre</p>
+                <p>Studio: <a href="/Studio/CurrentStudio/@ViewBag.CurrentGameStudio.Id">@ViewBag.CurrentGameStudio.Name</a></p>
+                <p>Store: <a href="/Store/CurrentStore/@ViewBag.CurrentGameStore.Id">@ViewBag.CurrentGameStore.Name</a></p>
+                <a href="@ViewBag.CurrentGame.BuyLink"><button>Buy</button></a>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+@if (ViewBag.CurrentGameNews != null)
+{
+    <div class="list-group">
+        <h3>News</h3>
+        @foreach (var a in ViewBag.CurrentGameNews)
+        {
+            <ul class="list-group-flush">
+                <p><a href="/News/CurrentNews/@a.Id">@a.Title</a></p>
+            </ul>
+            <br />
+        }
+    </div>
+}
+<br />
+@if (ViewBag.CurrentGameDLC != null)
+{
+    <div class="list-group">
+        <h3>DLC</h3>
+        @foreach (var a in ViewBag.CurrentGameDLC)
+        {
+            <ul class="list-group-flush">
+                <p><a href="/DLC/CurrentDLC/@a.Id">@a.Name</a></p>
+            </ul>
+            <br />
+        }
+    </div>
+}
